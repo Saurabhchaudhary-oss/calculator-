@@ -1,2 +1,3 @@
 # calculator-
-calculatorusign js,css and html
+This is a calculator using languages like-HTML,CSS AND JS ONLY
+IT IS A SIMPLE CALCULATOR
